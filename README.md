@@ -134,13 +134,7 @@ Camo Foundry is intended for procedural art, texture generation, game assets, mo
 
 ## License
 
-Add your preferred license here.
-
-Common choices:
-
-* MIT License for permissive open-source use
-* GPL if you want derivatives to stay open-source
-* Private / All Rights Reserved if this is just for personal use
+no-fault-license
 
 ## Project status
 
